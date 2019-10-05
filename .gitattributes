@@ -1,0 +1,6 @@
+* text=auto
+
+README.md           export-ignore
+.gitignore          export-ignore
+.editorconfig       export-ignore
+.gitattributes      export-ignore

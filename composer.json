@@ -1,0 +1,25 @@
+{
+    "name": "agelm/php-critical-path-css",
+    "description": "ci penso dopo",
+    "keywords": ["css", "performance"],
+    "authors": [
+      {
+        "name": "Andrea Gelmini",
+        "email": "andr.gelmini@gmail.com"
+      }
+    ],
+    "license": "GPL 2.0",
+    "require": {
+      "php": ">=5.5.9"
+    },
+    "autoload": {
+      "psr-4": {
+        "AGelm\\CriticalCss\\": "./src/"
+      }
+    },
+    "config": {
+        "preferred-install": "dist"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
